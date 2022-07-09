@@ -1,0 +1,7 @@
+archive
+node_modules
+src/bower_components
+src/areadm/api/conexao.php
+src/img/cadastros/*
+!src/img/cadastros/default.jpg
+.DS_Store
